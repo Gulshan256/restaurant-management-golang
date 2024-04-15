@@ -1,0 +1,14 @@
+basePath: /api/v1
+host: localhost:8080
+info:
+  contact:
+    email: https://www.gulshankumar.com
+    name: Gulshan Kumar
+    url: http://www.gulshankumar.com
+  description: This is a simple restaurant management API
+  title: Restaurant Management API
+  version: "1"
+paths: {}
+schemes:
+- http
+swagger: "2.0"

@@ -1,0 +1,19 @@
+{
+    "schemes": [
+        "http"
+    ],
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a simple restaurant management API",
+        "title": "Restaurant Management API",
+        "contact": {
+            "name": "Gulshan Kumar",
+            "url": "http://www.gulshankumar.com",
+            "email": "https://www.gulshankumar.com"
+        },
+        "version": "1"
+    },
+    "host": "localhost:8080",
+    "basePath": "/api/v1",
+    "paths": {}
+}
